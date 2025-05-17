@@ -17,8 +17,8 @@ This project aims to **test, challenge, and break down popular technical analysi
 
 ## 🧠 Prior belief
 
-- I personally believe this strategies don't work and that they are complete BS.
-- I dislike any 'finance guru' trying to teach you how to make money without doing their due diligence on these tools
+- I personally believe these strategies don't work and that they are complete BS.
+- I dislike any 'finance guru' trying to teach you how to make money without doing their due diligence
 - I want to test my prior belief with real data in order to get to a posterior belief (Bayes linguo)
 
 ---
@@ -44,4 +44,4 @@ Subscribe to stay updated and support evidence-based finance.
 ## ⚙️ Requirements
 
 To run the notebooks: you need to follow the instructions found in each notebook and install the necessary packages used. 
-You could also simply clone the notebook and run it all, but it's better to read the source code of a random dude like me before running it on your computer, right?
+You could also simply clone the notebook and run it all, but it's better to read the source code from a random dude like me before running it on your computer, right?
